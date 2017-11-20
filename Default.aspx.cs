@@ -10,13 +10,13 @@ The signature of the function is
 int f(int[] a)
 
 Examples:
-if the input array is	return
+if the input array is:	return:
 {1, 2, 3, 4}	           3
-{{4, 1, 2, 3}}	           3
+{{4, 1, 2, 3}}	         3
 {1, 1, 2, 2}	           1
-{1, 1}	                  -1
-{1}                       -1
-{}	                      -1
+{1, 1}	                -1
+{1}                    -1
+{}	                    -1
 */
 namespace ArrayOfnonNegativeInterger
 {
